@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1168px" height="650px">
-  <svg xmlns="http://www.w3.org/2000/svg" style="position: fixed; left: 1000vw;" x="7989.5" y="0">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1168px" height="1181px">
+  <svg xmlns="http://www.w3.org/2000/svg" style="position: fixed; left: 1000vw;" x="0" y="0" viewBox="32.4170112949541 13.254004188901 711.278787329699 414.823763721028">
     <text/>
   </svg>
   <svg xmlns="http://www.w3.org/2000/svg" width="1168" height="650" font-family="Canva Sans Variable" x="0" y="530.8333740234375">
@@ -237,8 +237,7 @@ VERMONT</text>
 CONNECTICUT</text>
       <text class="main" x="294.9069292719399" y="414.89624636504186" style="font-family: &quot;Canva Sans Variable&quot;; font-size: 7px; fill: rgba(0, 0, 0, 0.5); stroke-width: 0;" text-anchor="middle" dominant-baseline="central">
 HAWAII</text>
-      <text class="main" x="505.922139810283" y="309.694213805084" text-anchor="middle" dominant-baseline="central" style="font-family: &quot;Canva Sans Variable&quot;; font-size: 7px; fill: rgba(0, 0, 0, 0.5); stroke-width: 0;">
-MISSISSIPPI</text>
+      <text class="main" x="505.922139810283" y="309.694213805084" text-anchor="middle" dominant-baseline="central" style="font-family: &quot;Canva Sans Variable&quot;; font-size: 7px; fill: rgba(0, 0, 0, 0.5); stroke-width: 0;">MISSISSIPPI</text>
     </g>
     <g id="lines-layer"/>
     <g id="region-groups-layer"/>
