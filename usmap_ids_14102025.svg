@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1168px" height="1181px">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1168px" height="450px">
   <svg xmlns="http://www.w3.org/2000/svg" style="position: fixed; left: 1000vw;" x="0" y="0" viewBox="32.4170112949541 13.254004188901 711.278787329699 414.823763721028">
     <text/>
   </svg>
-  <svg xmlns="http://www.w3.org/2000/svg" width="1168" height="650" font-family="Canva Sans Variable" x="0" y="530.8333740234375">
+  <svg xmlns="http://www.w3.org/2000/svg" width="1168" height="650" font-family="Canva Sans Variable" x="0" y="0">
     <g id="globe-layer"/>
     <g id="graticule-layer"/>
     <g id="regions-layer">
