@@ -114,28 +114,19 @@
   <text x="249.59317" y="557.39471" id="text953" style="font-size:10px;font-style:normal;font-family:Verdana;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;" sodipodi:linespacing="125%">Hawaii</text>
   <text x="872.06604" y="362.43311" id="text937" style="font-size:10px;font-style:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;font-family:Verdana" sodipodi:linespacing="125%">West Virginia</text>
 <g id="lines-group" transform="scale(1)">
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M794.39016,47.157283 L867.46875,122.4375"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M794.65954,73.791978 L846.88469,125.4935"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M795.15024,98.959288 L856.51225,160.9895"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M876.32475,169.462494 L890.78814,200.83851"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M852.21792,183.03213 L874.21993,236.52586"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M835.9185,227.22971 L875.40252,259.20368"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M807.24822,238.43124 L885.90787,308.68546"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M832.47667,247.29221 L885.64601,285.23611"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M803.261,247.45279 L860.18994,323.38916"/>
-  <path style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round;"
-        d="M738.54338,286.55717 L860.231,355.0486"/>
+  <path id="lines"
+        style="display:inline; fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; vector-effect:non-scaling-stroke;"
+        d="M794.39016,47.157283 L867.46875,122.4375
+           M794.65954,73.791978 L846.88469,125.4935
+           M795.15024,98.959288 L856.51225,160.9895
+           M876.32475,169.462494 L890.78814,200.83851
+           M852.21792,183.03213 L874.21993,236.52586
+           M835.9185,227.22971 L875.40252,259.20368
+           M807.24822,238.43124 L885.90787,308.68546
+           M832.47667,247.29221 L885.64601,285.23611
+           M803.261,247.45279 L860.18994,323.38916
+           M738.54338,286.55717 L860.231,355.0486"/>
 </g>
-
   <text x="851.83075" y="338.77725" id="text6660" style="font-size:10px;font-style:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;font-family:Verdana" sodipodi:linespacing="125%">Washington, D.C.</text>
   <text xml:space="preserve" style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal" x="724.67657" y="369.57736" id="text3215" sodipodi:linespacing="125%">
     <tspan sodipodi:role="line" x="724.67657" y="369.57736" id="tspan3227">South Carolina</tspan>
