@@ -113,31 +113,7 @@
   <text x="101.86236" y="498.24039" id="text950" style="font-size:10px;font-style:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;font-family:Verdana" sodipodi:linespacing="125%">Alaska</text>
   <text x="249.59317" y="557.39471" id="text953" style="font-size:10px;font-style:normal;font-family:Verdana;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;" sodipodi:linespacing="125%">Hawaii</text>
   <text x="872.06604" y="362.43311" id="text937" style="font-size:10px;font-style:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;font-family:Verdana" sodipodi:linespacing="125%">West Virginia</text>
-<g id="lines-group" transform="scale(1)">
-  <path 
-    id="lines"
-    d="m 794.39016,47.157283 73.07859,75.280217 z m 0.26938,26.634695 52.22515,51.701522 z m 0.7597,25.084055 61.36201,62.030217 z m 81.17451,70.481747 14.46339,31.37602 z 
-       m -24.10683,13.56964 22.00201,53.49373 z 
-       m -16.29942,44.19758 39.48402,31.97397 z 
-       m -28.67028,11.20153 78.65965,70.25422 z 
-       m 25.22845,8.86097 53.16934,37.9439 z 
-       m -29.21442,0.16058 56.92894,75.93637 z 
-       m -64.71762,39.10438 121.6876,69.49144 z"
-    style="fill:none; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; stroke-dasharray:none;"
-  />
-  
-  <path 
-    id="lines"
-    d="m 794.39016,47.157283 73.07859,75.280217 z m 0.26938,26.634695 52.22515,51.701522 z m 0.7597,25.084055 61.36201,62.030217 z m 81.17451,70.481747 14.46339,31.37602 z 
-       m -24.10683,13.56964 22.00201,53.49373 z 
-       m -16.29942,44.19758 39.48402,31.97397 z 
-       m -28.67028,11.20153 78.65965,70.25422 z 
-       m 25.22845,8.86097 53.16934,37.9439 z 
-       m -29.21442,0.16058 56.92894,75.93637 z 
-       m -64.71762,39.10438 121.6876,69.49144 z"
-    style="fill:#000000; fill-opacity:1; stroke:#000000; stroke-width:1; stroke-linejoin:round; stroke-linecap:round; stroke-dasharray:none;"
-  />
-</g>
+  <path style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" d="m 794.39016,47.157283 73.07859,75.280217 z m 0.26938,26.634695 52.22515,51.701522 z m 0.7597,25.084055 61.36201,62.030217 z m 81.17451,70.481747 14.46339,31.37602 z m -24.10683,13.56964 22.00201,53.49373 z m -16.29942,44.19758 39.48402,31.97397 z m -28.67028,11.20153 78.65965,70.25422 z m 25.22845,8.86097 53.16934,37.9439 z m -29.21442,0.16058 56.92894,75.93637 z m -64.71762,39.10438 121.6876,69.49144 z" id="lines"/>
   <text x="851.83075" y="338.77725" id="text6660" style="font-size:10px;font-style:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:3pt;font-family:Verdana" sodipodi:linespacing="125%">Washington, D.C.</text>
   <text xml:space="preserve" style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana;font-stretch:normal;font-variant:normal" x="724.67657" y="369.57736" id="text3215" sodipodi:linespacing="125%">
     <tspan sodipodi:role="line" x="724.67657" y="369.57736" id="tspan3227">South Carolina</tspan>
